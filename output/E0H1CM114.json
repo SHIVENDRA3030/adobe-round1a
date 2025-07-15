@@ -1,0 +1,555 @@
+{
+  "title": "RFP:RRFP:ReequestfquestfoorPrrProposaloposal",
+  "outline": [
+    {
+      "text": "Ontario’sLibraries",
+      "page": 1,
+      "level": "H3"
+    },
+    {
+      "text": "WorkingTogether",
+      "page": 1,
+      "level": "H3"
+    },
+    {
+      "text": "RFP:RRFP:ReequestfquestfoorPrrProposaloposal",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "RFP:RRFP:ReequestfquestfoorPrrProposaloposal",
+      "page": 1,
+      "level": "H1"
+    },
+    {
+      "text": "ToPresentaProposalforDeveloping",
+      "page": 1,
+      "level": "H3"
+    },
+    {
+      "text": "theBusinessPlanfortheOntario",
+      "page": 1,
+      "level": "H3"
+    },
+    {
+      "text": "DigitalLibrary",
+      "page": 1,
+      "level": "H3"
+    },
+    {
+      "text": "March21,2003",
+      "page": 1,
+      "level": "H3"
+    },
+    {
+      "text": "Ontario’sDigitalLibrary",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "ACriticalComponentforImplementingOntario’sRoadMapto",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "ProsperityStrategy",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "Summary",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "Timeline:",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "th",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "100Lombard",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "April21,2003.",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "RFP:ToDeveloptheOntarioDigitalLibraryBusinessPlanMarch200322",
+      "page": 2,
+      "level": "H3"
+    },
+    {
+      "text": "Pleasenotethatwereservetherightnottoselectanyofthesubmittedproposalsandmay",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "Background",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "Librariesthatserveverydifferentclientelerecognizethatbyworkingtogethertheycancreate",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "Wearemovingintoaperiodofconvergence.Withconvergencewenolongerhavetolicense",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "RFP:ToDeveloptheOntarioDigitalLibraryBusinessPlanMarch200333",
+      "page": 3,
+      "level": "H3"
+    },
+    {
+      "text": "TAL.",
+      "page": 4,
+      "level": "H3"
+    },
+    {
+      "text": "EquitableaccessforallOntarians:",
+      "page": 4,
+      "level": "H3"
+    },
+    {
+      "text": "Ontariocitizens",
+      "page": 4,
+      "level": "H3"
+    },
+    {
+      "text": "Wewilleliminatebarrierstotheaccesstoinformationandcreatemoreconsistent",
+      "page": 4,
+      "level": "H3"
+    },
+    {
+      "text": "Shareddecision-makingandaccountability:",
+      "page": 4,
+      "level": "H3"
+    },
+    {
+      "text": "Wewillbalancetheinterestsandrealitiesofsmallandlargeaswellasrichandpoor",
+      "page": 4,
+      "level": "H3"
+    },
+    {
+      "text": "Sharedgovernancestructure:",
+      "page": 4,
+      "level": "H3"
+    },
+    {
+      "text": "Wewillworkbasedonanunderlyingassumptionoftrustandsynergy.",
+      "page": 4,
+      "level": "H3"
+    },
+    {
+      "text": "Sharedfunding:",
+      "page": 4,
+      "level": "H3"
+    },
+    {
+      "text": "Wewillbewillingtopooltalentsanddollarsinordertoprovidecommonservicesthatare",
+      "page": 4,
+      "level": "H3"
+    },
+    {
+      "text": "RFP:ToDeveloptheOntarioDigitalLibraryBusinessPlanMarch200344",
+      "page": 4,
+      "level": "H3"
+    },
+    {
+      "text": "Localpointsofentry:",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "Access:",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "GuidanceandAdvice:",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "Training:",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "ProvincialPurchasing&Licensing:",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "TechnologicalSupport:",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "ForeachOntariocitizenitcouldmean:",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "Onelocalpointofentrytoaccessseamlesselectroniclibraryservicesand",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "Electronicinformationandtoolsthatenhancejobskillsandthelearning",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "ForeachOntariostudentitcouldmean:",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "RFP:ToDeveloptheOntarioDigitalLibraryBusinessPlanMarch200355",
+      "page": 5,
+      "level": "H3"
+    },
+    {
+      "text": "Confidencethattheservicesandresourcespeopleareusingarecredible,",
+      "page": 6,
+      "level": "H3"
+    },
+    {
+      "text": "ForeachOntariolibraryitcouldmean:",
+      "page": 6,
+      "level": "H3"
+    },
+    {
+      "text": "Onepointofentryforthemselvesandtheirclienteletoqualityelectronic",
+      "page": 6,
+      "level": "H3"
+    },
+    {
+      "text": "FortheOntariogovernmentitcouldmean:",
+      "page": 6,
+      "level": "H3"
+    },
+    {
+      "text": "Improvedaccessandflexibilityforallstudentsatallagesandstages",
+      "page": 6,
+      "level": "H3"
+    },
+    {
+      "text": "Theopportunitytoaddressemergingjobskillsshortagesandfacilitateschool",
+      "page": 6,
+      "level": "H3"
+    },
+    {
+      "text": "RFP:ToDeveloptheOntarioDigitalLibraryBusinessPlanMarch200366",
+      "page": 6,
+      "level": "H3"
+    },
+    {
+      "text": "Theprocessofdevelopingthisbusinessplanmustbeextremelyconsultativetoensurethat",
+      "page": 7,
+      "level": "H3"
+    },
+    {
+      "text": "Milestones",
+      "page": 7,
+      "level": "H3"
+    },
+    {
+      "text": "Theproposalshouldincludethefollowinginformation:",
+      "page": 7,
+      "level": "H3"
+    },
+    {
+      "text": "RFP:ToDeveloptheOntarioDigitalLibraryBusinessPlanMarch200377",
+      "page": 7,
+      "level": "H3"
+    },
+    {
+      "text": "Demonstratedexperience",
+      "page": 8,
+      "level": "H3"
+    },
+    {
+      "text": "Timelineandprojectedcompletiondate",
+      "page": 8,
+      "level": "H3"
+    },
+    {
+      "text": "Committee.",
+      "page": 8,
+      "level": "H3"
+    },
+    {
+      "text": "RFP:ToDeveloptheOntarioDigitalLibraryBusinessPlanMarch200388",
+      "page": 8,
+      "level": "H3"
+    },
+    {
+      "text": "AppendixA:ODLEnvisionedPhases&Funding",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "PhaseI:BusinessPlanning",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "Timeline:March2003–September2003",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "FundingRequested:~$100,000jointlyfundedbystakeholdergroupsandtheprovincialgovernment.",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "Result:TheODLbusinessplan",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "PhaseII:ImplementingandTransitioning",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "Timeline:April2004–December2006",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "FundingRequested:FundingfromotherstatesandprovincessuggestthattheODLcouldreceive",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "Result:TheODLisimplementedandvalidated",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "Theseedmoneyrequestedwillallowlibrariestorealigntheirbudgetsandservicesastheinfrastructure",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "PhaseIII:OperatingandGrowingtheODL",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "Timeline:January2007-",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "Funding:$50Millionannually($35Millionrequestedfromgovernment)",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "Result:TheODLisfullyoperationalandsustainable",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "RFP:ToDeveloptheOntarioDigitalLibraryBusinessPlanMarch200399",
+      "page": 9,
+      "level": "H3"
+    },
+    {
+      "text": "OVERVIEWOFODLFUNDINGMODEL",
+      "page": 10,
+      "level": "H3"
+    },
+    {
+      "text": "FundingSource20072017",
+      "page": 10,
+      "level": "H3"
+    },
+    {
+      "text": "Government$35M(70%)$33.75M(45%)",
+      "page": 10,
+      "level": "H3"
+    },
+    {
+      "text": "Libraries$10M(20%)$22.5M(30%)",
+      "page": 10,
+      "level": "H3"
+    },
+    {
+      "text": "Endowment$4.5M(9%)$15M(20%)",
+      "page": 10,
+      "level": "H3"
+    },
+    {
+      "text": "Gifts/In-Kind$0.5M(1%)$3.75M(5%)",
+      "page": 10,
+      "level": "H3"
+    },
+    {
+      "text": "TOTALANNUAL",
+      "page": 10,
+      "level": "H3"
+    },
+    {
+      "text": "$50M$75M",
+      "page": 10,
+      "level": "H3"
+    },
+    {
+      "text": "representaninvestmentof$5.00percitizen.",
+      "page": 10,
+      "level": "H3"
+    },
+    {
+      "text": "oninvestmentisworth$2ofvalueforOntario.",
+      "page": 10,
+      "level": "H3"
+    },
+    {
+      "text": "RFP:ToDeveloptheOntarioDigitalLibraryBusinessPlanMarch20031010",
+      "page": 10,
+      "level": "H3"
+    },
+    {
+      "text": "AppendixB:ODLSteeringCommitteeTermsofReference",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "1.Preamble",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "2.TermsofReference",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "3.Membership",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "3.1Schools:",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "3.2Universities:",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "3.3Colleges:",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "3.4Publiclibraries:",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "RFP:ToDeveloptheOntarioDigitalLibraryBusinessPlanMarch20031111",
+      "page": 11,
+      "level": "H3"
+    },
+    {
+      "text": "4.AppointmentCriteriaandProcess",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "4.2Desiredcharacteristicsforsteeringcommitteeappointeesinclude:",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "Strategicthinkers;",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "Knowledgeableaboutdigitallibrariesandresources;",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "Knowledgeableaboutgovernmentstructures;",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "Abletotakeaconsultativeapproach;",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "5.Term",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "6.Chair",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "7.Meetings",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "Itisexpectedthatinpersonmeetingsareheldoncepermonthandthemajorityofbusinesswillbe",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "8.LinesofAccountabilityandCommunication",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "RFP:ToDeveloptheOntarioDigitalLibraryBusinessPlanMarch20031212",
+      "page": 12,
+      "level": "H3"
+    },
+    {
+      "text": "9.FinancialandAdministrativePolicies",
+      "page": 13,
+      "level": "H3"
+    },
+    {
+      "text": "RFP:ToDeveloptheOntarioDigitalLibraryBusinessPlanMarch20031313",
+      "page": 13,
+      "level": "H3"
+    },
+    {
+      "text": "AppendixC:ODL’sEnvisionedElectronicResources",
+      "page": 14,
+      "level": "H3"
+    },
+    {
+      "text": "RFP:ToDeveloptheOntarioDigitalLibraryBusinessPlanMarch20031414",
+      "page": 14,
+      "level": "H3"
+    }
+  ]
+}
